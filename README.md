@@ -1,2 +1,0 @@
-# kvartinn.github.io
-kvartinn
